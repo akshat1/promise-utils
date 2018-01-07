@@ -1,0 +1,25 @@
+{
+  "name": "simian-promise-utils",
+  "version": "1.0.0",
+  "description": "Utility functions that I find usefule for my projects.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat1/promise-utils.git"
+  },
+  "keywords": [
+    "promise",
+    "callback",
+    "promisify"
+  ],
+  "author": "akshat.sh@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshat1/promise-utils/issues"
+  },
+  "homepage": "https://github.com/akshat1/promise-utils#readme"
+}
